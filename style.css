@@ -1,6 +1,11 @@
-.corpo-conteudo{
+cabeçalho{
     background-color: blue;
     color:  white
 }
-#Finlândia 
-    windth:  400px
+.principal{
+background-color: yellow;
+    color: black
+}
+#Finlândia{
+    windth:  400px;
+}
